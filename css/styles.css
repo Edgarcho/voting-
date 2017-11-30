@@ -1,0 +1,15 @@
+#vote, #under-18 {
+  display: none;
+}
+
+h1 , p {
+  font-size: 40px;
+}
+
+ul , p {
+  font-size: 20px;
+}
+
+body {
+  background-color: tan;
+}
